@@ -25,14 +25,5 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Running the app
+if the ```run dev -- --open``` doesn't open the URL in your default browser, it can be accessed via http://localhost:4399/r/subreddit_names
